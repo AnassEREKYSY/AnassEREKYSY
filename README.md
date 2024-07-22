@@ -26,5 +26,5 @@ I am a Full Stack Developer specializing in many stacks.
   - ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
   - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
-## Projects
+## Projects && Contacts
 You can find all of my projects at my GitHub repository, each one with a README file that explains the project. You can reach me at 📫 [Email](mailto:ereanass@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/anass-erekysy-5a8939204/).
