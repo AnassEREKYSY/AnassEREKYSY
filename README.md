@@ -25,6 +25,11 @@ I am a Full Stack Developer specializing in many stacks.
   - ![CI/CD](https://img.shields.io/badge/-CI/CD-007ACC?logo=githubactions&logoColor=white&style=for-the-badge)
   - ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
   - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+  - ![DevOps & Security](https://img.shields.io/badge/-DevOps%20&%20Security-7D3F6D?logo=devops&logoColor=white&style=for-the-badge)
+
+- **Additional** **skills**:
+  - ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FF5733?logo=scrapy&logoColor=white&style=for-the-badge)
 
 ## Projects && Contacts
 You can find all of my projects at my GitHub repository, each one with a README file that explains the project. You can reach me at 📫 [Email](mailto:ereanass@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/anass-erekysy-5a8939204/).
