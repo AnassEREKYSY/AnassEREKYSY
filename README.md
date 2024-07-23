@@ -1,7 +1,10 @@
 # Hi there, I'm Anass EREKYSY 👋
 
 ## About Me
-I am a Full Stack Developer with a Master's degree in *Développement du SI, option Développement Web* and specializing in many stacks.
+I am a Full Stack Developer specializing in many stacks.
+
+## Education
+- **Master's Degree in Développement du SI, option Développement Web**
 
 ## Skills
 
@@ -28,11 +31,11 @@ I am a Full Stack Developer with a Master's degree in *Développement du SI, opt
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
   - ![DevOps & Security](https://img.shields.io/badge/-DevOps%20&%20Security-7D3F6D?logo=devops&logoColor=white&style=for-the-badge)
 
-- **additional skills**:
+- **Additional Skills**:
+  - ![Conception des Systèmes d'Information](https://img.shields.io/badge/-Conception%20des%20SI-6C7B8B?style=for-the-badge)
+  - ![Modélisation des Bases de Données](https://img.shields.io/badge/-Mod%C3%A9lisation%20des%20Bases%20de%20Donn%C3%A9es-5A2D81?style=for-the-badge)
   - ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FF5733?logo=scrapy&logoColor=white&style=for-the-badge)
 
-## Education
-- **Master's Degree in Développement du SI, option Développement Web**
 
 ## Projects && Contacts
 You can find all of my projects at my GitHub repository, each one with a README file that explains the project. You can reach me at 📫 [Email](mailto:ereanass@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/anass-erekysy-5a8939204/).
