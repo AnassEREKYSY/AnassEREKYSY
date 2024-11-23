@@ -14,8 +14,8 @@ I am a Full Stack Developer specializing in many stacks.
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 - **Backend**:
-  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)
   - ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)
   - ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge)
 
 - **Databases**:
@@ -26,7 +26,7 @@ I am a Full Stack Developer specializing in many stacks.
 
 - **DevOps & Cloud**:
   - ![CI/CD](https://img.shields.io/badge/-CI/CD-007ACC?logo=githubactions&logoColor=white&style=for-the-badge)
-  - ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+  - ![Cloud](https://img.shields.io/badge/-Cloud%20Computing-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
   - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
   - ![DevOps & Security](https://img.shields.io/badge/-DevOps%20&%20Security-7D3F6D?logo=devops&logoColor=white&style=for-the-badge)
