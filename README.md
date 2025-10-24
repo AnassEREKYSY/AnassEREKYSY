@@ -1,7 +1,7 @@
-# Hi there, I'm Anass EREKYSY 👋
+# Hi there, I'm Anass EREKYSY 
 
 ## About Me
-I am a Full Stack Developer specializing in many stacks.
+I am a Full Stack Developer | Devops Engineer | QA.
 
 ## Education
 - **Master's Degree in Développement du SI, option Développement Web**
@@ -21,6 +21,7 @@ I am a Full Stack Developer specializing in many stacks.
   - ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge)
 
 - **Testing**:
+  - ![Playwright](https://img.shields.io/badge/-Playwright-45BA4B?logo=playwright&logoColor=white&style=for-the-badge)
   - ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
   - ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
   - ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
@@ -31,17 +32,20 @@ I am a Full Stack Developer specializing in many stacks.
   - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
   - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+  - ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
   - ![PL/SQL](https://img.shields.io/badge/-PL/SQL-4479A1?logo=oracle&logoColor=white&style=for-the-badge)
   - ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?logo=google-cloud&logoColor=black&style=for-the-badge)
 
 - **DevOps & Cloud**:
-  - ![CI/CD](https://img.shields.io/badge/-CI/CD-007ACC?logo=githubactions&logoColor=white&style=for-the-badge)
+  - ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+  - ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
+  - ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+  - ![CI/CD](https://img.shields.io/badge/-CI%2FCD-007ACC?logo=githubactions&logoColor=white&style=for-the-badge)
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
   - ![Cloud](https://img.shields.io/badge/-Cloud%20Computing-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
   - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
   - ![Ansible](https://img.shields.io/badge/-Ansible-000000?logo=ansible&logoColor=white&style=for-the-badge)
   - ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
-  - ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
   - ![OVH Deployment](https://img.shields.io/badge/-Deploy%20using%20OVH-123F6D?style=for-the-badge)
 
 - **PenTests**:
