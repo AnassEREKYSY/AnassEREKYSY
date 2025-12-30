@@ -1,4 +1,4 @@
-# Hi there, I’m **Anass EREKYSY Full Stack Developer (.NET/Node.js - Angular) | DevOps ** 
+# Hi there, I’m **Anass EREKYSY Full Stack Developer (.NET/Node.js - Angular) | DevOps** 
 
 ## About Me
 I am a **Full Stack Developer specialized in .NET and Angular**, with strong expertise in **Node.js**, **DevOps**, and **software automation**.  
