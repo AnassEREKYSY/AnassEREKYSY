@@ -7,14 +7,12 @@ I design, develop, and deploy **scalable, secure, and maintainable web applicati
 I work across **backend, frontend, cloud, and DevOps**, with a strong focus on **quality**, **reliability**, **automation**, and **long-term business value**.  
 I am currently open to **freelance** and **full-time opportunities**.
 
----
 
 ## Education
 - **Master’s Degree – Information Systems Development (Web Development Track)**
 - **Bachelor’s Degree – Computer Science (Software Development)**
 - **DUT – Computer Engineering (Software Engineering Option)**
 
----
 
 ## Skills
 
@@ -68,14 +66,12 @@ I am currently open to **freelance** and **full-time opportunities**.
 - Security & Penetration Testing  
 - Keycloak (Authentication & RBAC)
 
----
+
 
 ## Projects & Profiles
 You can find all of my projects on GitHub, each with a detailed README explaining the architecture, stack, and use cases.
-
-🔗 **Malt**: https://www.malt.fr/profile/anasserekysy  
-🔗 **Collective.work**: https://www.collective.work/profile/anass-erekysy  
-
 📫 Reach me via:  
-- **Email**: [ereanass@gmail.com](mailto:ereanass@gmail.com)  
-- **LinkedIn**: https://www.linkedin.com/in/anass-erekysy-5a8939204/
+ **Malt**: https://www.malt.fr/profile/anasserekysy  
+ **Collective.work**: https://www.collective.work/profile/anass-erekysy  
+ **Email**: [ereanass@gmail.com](mailto:ereanass@gmail.com)  
+ **LinkedIn**: https://www.linkedin.com/in/anass-erekysy-5a8939204/
