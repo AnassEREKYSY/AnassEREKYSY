@@ -58,14 +58,14 @@ I am currently open to **freelance** and **full-time opportunities**.
 - ![Artillery](https://img.shields.io/badge/-Artillery-EF5B5B?style=for-the-badge)
 
 ### Architecture & Methodologies
-- ![UML](https://img.shields.io/badge/UML-Modeling-blue?style=for-the-badge)
-- ![Merise](https://img.shields.io/badge/Merise-Data%20Modeling-0A66C2?style=for-the-badge)
-- ![Microservices](https://img.shields.io/badge/Microservices-Architecture-orange?style=for-the-badge)
-- ![REST API](https://img.shields.io/badge/REST-API-success?style=for-the-badge)
-- ![Agile](https://img.shields.io/badge/Agile-Scrum%20%7C%20SAFe-0052CC?style=for-the-badge)
-- ![CI/CD](https://img.shields.io/badge/CI%2FCD-DevOps-2088FF?style=for-the-badge)
-- ![Security](https://img.shields.io/badge/Security-Penetration%20Testing-critical?style=for-the-badge)
-- ![Keycloak](https://img.shields.io/badge/Keycloak-Authentication-4D4D4D?style=for-the-badge)
+- ![UML]
+- ![Merise]
+- ![Microservices]
+- ![REST API]
+- ![Agile]
+- ![CI/CD]
+- ![Security]
+- ![Keycloak]
 
 
 ## Contact me :) 
