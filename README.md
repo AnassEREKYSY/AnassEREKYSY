@@ -58,23 +58,21 @@ I am currently open to **freelance** and **full-time opportunities**.
 - ![Artillery](https://img.shields.io/badge/-Artillery-EF5B5B?style=for-the-badge)
 
 ### Architecture & Methodologies
-- ![UML]
-- ![Merise]
-- ![Microservices]
-- ![REST API]
-- ![Agile]
-- ![CI/CD]
-- ![Security]
-- ![Keycloak]
+- UML, Merise  
+- Microservices & REST APIs  
+- Agile / Scrum / SAFe  
+- CI/CD & DevOps best practices  
+- Technical Debt Reduction  
+- Security & Penetration Testing  
+- Keycloak (Authentication & RBAC)
 
 
-## Contact me :) 
-- ![Portfolio](https://img.shields.io/badge/Portfolio-anasserekysy.com-512BD4?style=for-the-badge)
-- ![Malt](https://img.shields.io/badge/Malt-Freelance-FF5A5F?style=for-the-badge)
-- ![Collective.work](https://img.shields.io/badge/Collective.work-Consulting-1F2937?style=for-the-badge)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Anass%20Erekysy-0A66C2?logo=linkedin&style=for-the-badge)
-- ![Email](https://img.shields.io/badge/Email-ereanass%40gmail.com-D14836?logo=gmail&style=for-the-badge)
-
-- ![Location](https://img.shields.io/badge/Location-Paris%2C%20France-1E90FF?style=for-the-badge)
-- ![Availability](https://img.shields.io/badge/Availability-Remote%20%7C%20Hybrid-success?style=for-the-badge)
-
+## Contact me :)  
+ **Email**: [ereanass@gmail.com](mailto:ereanass@gmail.com)  
+ **Portfolio**: https://portfolio.anasserekysy.com/
+ **Malt**: https://www.malt.fr/profile/anasserekysy  
+ **Collective.work**: https://www.collective.work/profile/anass-erekysy  
+ **LinkedIn**: https://www.linkedin.com/in/anass-erekysy-5a8939204/
+ **Collective Work** : https://app.collective.work/collective/anass-erekysy/profile?tab=1
+ **UpWork** : https://www.upwork.com/freelancers/~019f535ba57e87cbb4
+ 
