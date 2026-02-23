@@ -67,12 +67,6 @@ I am currently open to **freelance** and **full-time opportunities**.
 - Keycloak (Authentication & RBAC)
 
 
-## Contact me :)
 
-**Email**: [ereanass@gmail.com](mailto:ereanass@gmail.com)  
 **Portfolio**: https://portfolio.anasserekysy.com  
-**Malt**: https://www.malt.fr/profile/anasserekysy  
-**Collective.work**: https://www.collective.work/profile/anass-erekysy  
-**LinkedIn**: https://www.linkedin.com/in/anass-erekysy-5a8939204/  
-**Upwork**: https://www.upwork.com/freelancers/~019f535ba57e87cbb4  
  
