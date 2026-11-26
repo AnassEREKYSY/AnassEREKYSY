@@ -13,7 +13,7 @@ Paris, France · Open to freelance missions, remote or hybrid
 [![Malt](https://img.shields.io/badge/Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/anasserekysy)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019f535ba57e87cbb4)
 [![Collective](https://img.shields.io/badge/Collective-5B4CF5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xNiAyMXYtMmE0IDQgMCAwIDAtNC00SDZhNCA0IDAgMCAwLTQgNHYyIi8%2BPGNpcmNsZSBjeD0iOSIgY3k9IjciIHI9IjQiLz48cGF0aCBkPSJNMjIgMjF2LTJhNCA0IDAgMCAwLTMtMy44NyIvPjxwYXRoIGQ9Ik0xNiAzLjEzYTQgNCAwIDAgMSAwIDcuNzUiLz48L3N2Zz4%3D)](https://app.collective.work/collective/anass-erekysy/profile?tab=1)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ereanass@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ereanass@gmail.com)
 
 </div>
 
@@ -66,7 +66,8 @@ A trading journal built around discipline. You plan each trade, check it against
 
 `Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Tailwind`
 
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://plumb-peach.vercel.app/)
+[![Open live app](https://img.shields.io/badge/Open_live_app-2563EB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://plumb-peach.vercel.app/)
+[![Source code](https://img.shields.io/badge/Source_code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/Plumb)
 
 </td>
 <td width="50%" valign="top">
@@ -76,7 +77,8 @@ One dashboard for freelancers to run their business: projects, tasks and finance
 
 `React` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
 
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://business-cockpit-five.vercel.app/)
+[![Open live app](https://img.shields.io/badge/Open_live_app-2563EB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://business-cockpit-five.vercel.app/)
+[![Source code](https://img.shields.io/badge/Source_code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/business-cockpit)
 
 </td>
 </tr>
@@ -88,8 +90,9 @@ Influencer marketing platform: campaigns, creators, tracked links, promo codes, 
 
 `Laravel` `React` `Vite` `Tailwind` `Supabase`
 
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://kickback-xi.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/BuyAndBye_Campaign_Marketing_Front)
+[![Open live app](https://img.shields.io/badge/Open_live_app-2563EB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://kickback-xi.vercel.app/)
+[![Frontend code](https://img.shields.io/badge/Frontend_code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/BuyAndBye_Campaign_Marketing_Front)
+[![Backend code](https://img.shields.io/badge/Backend_code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/BuyAndBye_Campaign_Marketing_Back)
 
 </td>
 <td width="50%" valign="top">
@@ -99,8 +102,8 @@ Job market intelligence from live job ads: salary percentiles, hiring trends, re
 
 `.NET 8` `Clean Architecture` `Angular 19` `Leaflet` `Adzuna API`
 
-[![Live](https://img.shields.io/badge/Live-2E7D32?style=flat-square&logo=googlechrome&logoColor=white)](https://marketpulse.anasserekysy.com/)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/MarketPulse)
+[![Open live app](https://img.shields.io/badge/Open_live_app-2563EB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://marketpulse.anasserekysy.com/)
+[![Source code](https://img.shields.io/badge/Source_code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/MarketPulse)
 
 </td>
 </tr>
@@ -110,13 +113,13 @@ Job market intelligence from live job ads: salary percentiles, hiring trends, re
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **Skinet** | E-commerce store: catalog, cart, checkout, orders, Stripe payments | .NET 8, Angular, Stripe, Docker | [![Live](https://img.shields.io/badge/Live-2E7D32?style=flat-square)](https://skinet.anasserekysy.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/Skinet) |
-| **RaiseUp** | Matchmaking between startups and investors, with match scores, a deal pipeline and real-time chat | Angular, Express, Prisma, PostgreSQL, Socket.IO | [![Live](https://img.shields.io/badge/Live-2E7D32?style=flat-square)](https://raiseup.anasserekysy.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/RaiseUp) |
-| **Melodify** | Spotify companion: listening stats, playlist tools, in-browser player, new releases | .NET 8, Angular 19, Spotify Web API | [![Live](https://img.shields.io/badge/Live-2E7D32?style=flat-square)](https://melodify.anasserekysy.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/Melodify) |
-| **ShowTracker** | Track films and series: episode progress, diary, stats, trailers, where to watch | Angular, Express, Prisma, PostgreSQL, Redis | [![Live](https://img.shields.io/badge/Live-2E7D32?style=flat-square)](https://showtracker.anasserekysy.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/ShowTracker) |
-| **PayChase** | B2B invoicing with status tracking and automated payment reminders | Angular, .NET, Node.js, SQL | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/PayChase_AuthService) |
-| **CoinHawk** | Crypto market tracker: prices, trends and market data in one interface | Angular, .NET, Keycloak | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/CoinHawk) |
-| **YallaPay** | Backend for a digital wallet with cashless payments through a network of agents | Node.js, Docker, CI/CD | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/YallaPay) |
+| **Skinet** | E-commerce store: catalog, cart, checkout, orders, Stripe payments | .NET 8, Angular, Stripe, Docker | [![Open live app](https://img.shields.io/badge/Open_live_app-2563EB?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://skinet.anasserekysy.com/) [![Source code](https://img.shields.io/badge/Source_code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/SkiNet) |
+| **RaiseUp** | Matchmaking between startups and investors, with match scores, a deal pipeline and real-time chat | Angular, Express, Prisma, PostgreSQL, Socket.IO | [![Open live app](https://img.shields.io/badge/Open_live_app-2563EB?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://raiseup.anasserekysy.com/) [![Source code](https://img.shields.io/badge/Source_code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/RaiseUp) |
+| **Melodify** | Spotify companion: listening stats, playlist tools, in-browser player, new releases | .NET 8, Angular 19, Spotify Web API | [![Open live app](https://img.shields.io/badge/Open_live_app-2563EB?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://melodify.anasserekysy.com/) [![Source code](https://img.shields.io/badge/Source_code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/Melodify) |
+| **ShowTracker** | Track films and series: episode progress, diary, stats, trailers, where to watch | Angular, Express, Prisma, PostgreSQL, Redis | [![Open live app](https://img.shields.io/badge/Open_live_app-2563EB?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://showtracker.anasserekysy.com/) [![Source code](https://img.shields.io/badge/Source_code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/ShowTracker) |
+| **PayChase** | B2B invoicing with status tracking and automated payment reminders | Angular, .NET, Node.js, SQL | [![Auth service](https://img.shields.io/badge/Auth_service-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/PayChase_AuthService) [![Invoices service](https://img.shields.io/badge/Invoices_service-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/PayChase_InvoicesService) |
+| **CoinHawk** | Crypto market tracker: prices, trends and market data in one interface | Angular, .NET, Keycloak | [![Source code](https://img.shields.io/badge/Source_code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/CoinHawk) |
+| **YallaPay** | Backend for a digital wallet with cashless payments through a network of agents | Node.js, Docker, CI/CD | [![Source code](https://img.shields.io/badge/Source_code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/YallaPay) |
 
 <br>
 
@@ -173,7 +176,6 @@ Send me a few lines about the context and I'll get back to you quickly.
 
 <br>
 
-[![Email](https://img.shields.io/badge/ereanass@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ereanass@gmail.com)
-[![Malt](https://img.shields.io/badge/Hire_me_on_Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/anasserekysy)
+[![Email](https://img.shields.io/badge/ereanass@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ereanass@gmail.com)
 
 </div>
