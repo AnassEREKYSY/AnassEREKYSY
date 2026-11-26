@@ -1,63 +1,179 @@
-# Hi, I'm Anass EREKYSY
+<div align="center">
 
-**Full-stack developer · .NET & Angular · React, Node.js and DevOps**
+# Anass Erekysy
 
-I build web applications from the database to the deployment pipeline: clean APIs, fast and accessible front ends, automated tests and CI/CD that ships to production on every merge. I like taking an existing codebase, understanding it quickly and making it faster, safer and easier to maintain.
+**Full-stack developer · SaaS & web apps · .NET, Angular, React, Node.js, Laravel**
 
-Open to **freelance missions** (remote, async friendly).
+Paris, France · Open to freelance missions, remote or hybrid
+
+<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.anasserekysy.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Ik0yMCAyMWE4IDggMCAwIDAtMTYgMCIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/anass-erekysy-5a8939204/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Ik0yMCAyMWE4IDggMCAwIDAtMTYgMCIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/anass-erekysy/)
 [![Malt](https://img.shields.io/badge/Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/anasserekysy)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019f535ba57e87cbb4)
-[![Collective](https://img.shields.io/badge/Collective-5B4CF5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xNiAyMXYtMmE0IDQgMCAwIDAtNC00SDZhNCA0IDAgMCAwLTQgNHYyIi8%2BPGNpcmNsZSBjeD0iOSIgY3k9IjciIHI9IjQiLz48cGF0aCBkPSJNMjIgMjF2LTJhNCA0IDAgMCAwLTMtMy44NyIvPjxwYXRoIGQ9Ik0xNiAzLjEzYTQgNCAwIDAgMSAwIDcuNzUiLz48L3N2Zz4%3D)](https://www.collective.work/profile/anass-erekysy)
+[![Collective](https://img.shields.io/badge/Collective-5B4CF5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xNiAyMXYtMmE0IDQgMCAwIDAtNC00SDZhNCA0IDAgMCAwLTQgNHYyIi8%2BPGNpcmNsZSBjeD0iOSIgY3k9IjciIHI9IjQiLz48cGF0aCBkPSJNMjIgMjF2LTJhNCA0IDAgMCAwLTMtMy44NyIvPjxwYXRoIGQ9Ik0xNiAzLjEzYTQgNCAwIDAgMSAwIDcuNzUiLz48L3N2Zz4%3D)](https://app.collective.work/collective/anass-erekysy/profile?tab=1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ereanass@gmail.com)
 
----
+</div>
 
-## What I work on
+<br>
 
-- **Backend**: .NET 8 / ASP.NET Core (Clean Architecture, minimal APIs, EF Core), Node.js with NestJS and Express, Laravel
-- **Frontend**: Angular (up to 19, standalone components and signals), React, TypeScript, Tailwind CSS
-- **Migrations**: .NET Framework → .NET 6/8, Angular 11 → 18
-- **DevOps & hosting**: Docker, GitHub Actions and Azure DevOps pipelines, container registries, Nginx reverse proxy, Let's Encrypt, Linux VMs on OVHcloud, Vercel and Supabase
-- **Quality**: unit, integration and end-to-end tests (xUnit, Jest, Playwright), performance and security reviews
+I build SaaS products and web apps end to end, and I take over existing codebases, legacy ones included, to keep them moving.
+
+Most of my days are spent in **.NET and Angular**. I'm just as comfortable in **React / Next.js, Node.js and Laravel**, and I handle my own **Docker, CI/CD and deployments**. Most of the projects below run live on a server I manage myself or on Vercel, so you can open them and try them.
+
+<br>
+
+## What I can help you with
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Build your product**
+
+You have an idea and need a working app. I take it from an empty repo to production: data model, API, front end, auth, payments, tests, and a pipeline that deploys on every merge.
+
+</td>
+<td width="33%" valign="top">
+
+**Evolve a live app**
+
+That's my day job. An ERP used by several French OPCOs, an insurance portal, a GMAO app. Migrations from Angular 11 to 18 and from .NET Framework 4.8 to .NET 6, without stopping releases.
+
+</td>
+<td width="33%" valign="top">
+
+**Ship a feature or a fix**
+
+REST APIs, Stripe, Spotify, Supabase, Keycloak, external data APIs, and bugs that run from a Razor view down to a stored procedure. I write the SQL fix and the rollback script.
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## Featured projects
 
-All redesigned in 2026, each with automated tests and a CI/CD pipeline that deploys to my own server on every merge.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Plumb
+A trading journal built around discipline. You plan each trade, check it against your own rules, then compare the plan with what actually happened.
+
+`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Tailwind`
+
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://plumb-peach.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### Cockpit
+One dashboard for freelancers to run their business: projects, tasks and finances in the same place.
+
+`React` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
+
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://business-cockpit-five.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Kickback
+Influencer marketing platform: campaigns, creators, tracked links, promo codes, conversions and commissions.
+
+`Laravel` `React` `Vite` `Tailwind` `Supabase`
+
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://kickback-xi.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/BuyAndBye_Campaign_Marketing_Front)
+
+</td>
+<td width="50%" valign="top">
+
+### MarketPulse
+Job market intelligence from live job ads: salary percentiles, hiring trends, remote share, skills, and 19 countries compared on a map.
+
+`.NET 8` `Clean Architecture` `Angular 19` `Leaflet` `Adzuna API`
+
+[![Live](https://img.shields.io/badge/Live-2E7D32?style=flat-square&logo=googlechrome&logoColor=white)](https://marketpulse.anasserekysy.com/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/MarketPulse)
+
+</td>
+</tr>
+</table>
+
+## More projects
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **MarketPulse** | Job market analytics from live job ads: demand, salary percentiles, remote share, skills and 19 countries compared | .NET 8 (Clean Architecture), Angular 19, Leaflet, Adzuna API | [Live](https://marketpulse.anasserekysy.com) · [Code](https://github.com/AnassEREKYSY/MarketPulse) |
-| **Skinet** | E-commerce store with cart, checkout and Stripe payments | .NET 8, Angular, Stripe, Docker | [Live](https://skinet.anasserekysy.com) · [Code](https://github.com/AnassEREKYSY/Skinet) |
-| **ShowTracker** | Films and series tracker: episode progress, diary, stats, trailers and where to watch | Angular, Express, Prisma, PostgreSQL, Redis, TMDB API | [Live](https://showtracker.anasserekysy.com) · [Code](https://github.com/AnassEREKYSY/ShowTracker) |
-| **RaiseUp** | Startup and investor matchmaking with match scores, a deal pipeline and real-time chat | Angular, Express, Prisma, PostgreSQL, Socket.IO | [Live](https://raiseup.anasserekysy.com) · [Code](https://github.com/AnassEREKYSY/RaiseUp) |
-| **Melodify** | Spotify companion: listening stats, playlist tools, player and devices, new releases | .NET 8, Angular 19, Spotify Web API and Web Playback SDK | [Live](https://melodify.anasserekysy.com) · [Code](https://github.com/AnassEREKYSY/Melodify) |
-| **Kickback** | Influencer campaign platform: tracked links, promo codes, QR codes and tiered payouts | Laravel, React, Vite, Tailwind, React Native (Expo), Supabase, Vercel | [Live](https://kickback.vercel.app) · [Code](https://github.com/AnassEREKYSY/BuyAndBye_Campaign_Marketing_Front) |
+| **Skinet** | E-commerce store: catalog, cart, checkout, orders, Stripe payments | .NET 8, Angular, Stripe, Docker | [![Live](https://img.shields.io/badge/Live-2E7D32?style=flat-square)](https://skinet.anasserekysy.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/Skinet) |
+| **RaiseUp** | Matchmaking between startups and investors, with match scores, a deal pipeline and real-time chat | Angular, Express, Prisma, PostgreSQL, Socket.IO | [![Live](https://img.shields.io/badge/Live-2E7D32?style=flat-square)](https://raiseup.anasserekysy.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/RaiseUp) |
+| **Melodify** | Spotify companion: listening stats, playlist tools, in-browser player, new releases | .NET 8, Angular 19, Spotify Web API | [![Live](https://img.shields.io/badge/Live-2E7D32?style=flat-square)](https://melodify.anasserekysy.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/Melodify) |
+| **ShowTracker** | Track films and series: episode progress, diary, stats, trailers, where to watch | Angular, Express, Prisma, PostgreSQL, Redis | [![Live](https://img.shields.io/badge/Live-2E7D32?style=flat-square)](https://showtracker.anasserekysy.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/ShowTracker) |
+| **PayChase** | B2B invoicing with status tracking and automated payment reminders | Angular, .NET, Node.js, SQL | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/PayChase_AuthService) |
+| **CoinHawk** | Crypto market tracker: prices, trends and market data in one interface | Angular, .NET, Keycloak | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/CoinHawk) |
+| **YallaPay** | Backend for a digital wallet with cashless payments through a network of agents | Node.js, Docker, CI/CD | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnassEREKYSY/YallaPay) |
 
-More on my [portfolio](https://portfolio.anasserekysy.com).
+<br>
+
+## Experience
+
+| Where | When | What I did |
+| --- | --- | --- |
+| **RS2i**<br><sub>Paris</sub> | 2026 – now | .NET / C# engineer on **SOR**, a large ERP that French OPCOs use to manage professional training funding. Business rules, BackOffice and Extranet features, SQL Server procedures, data fixes with rollback plans. |
+| **Freelance**<br><sub>Remote</sub> | 2024 – 2026 | Designed and shipped the products above, each one end to end. |
+| **Auxia**<br><sub>Paris</sub> | 2023 – 2025 | Insurance subscription portal in production. Worked on the migration from Angular 11 to 18 and .NET Framework 4.8 to .NET 6, plus front-end tests and CI/CD to make releases safer. |
+| **Dimo Maint**<br><sub>Lyon</sub> | 2023 | Moved a legacy GMAO app to Angular / .NET, module by module, refactoring along the way. |
+| **Préfecture de Meknès**<br><sub>Morocco</sub> | 2022 | Offline-first Flutter app to log, sort and track official mail. |
+| **First Instance Court**<br><sub>Sidi Kacem, Morocco</sub> | 2021 | PHP app to manage court hearings, sessions and case statuses. |
+
+<br>
 
 ## Tech stack
 
-| Area | Technologies |
-|:--|:--|
-| **Languages** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI5IiByeT0iMyIvPjxwYXRoIGQ9Ik0zIDV2MTRhOSAzIDAgMCAwIDE4IDBWNSIvPjxwYXRoIGQ9Ik0zIDEyYTkgMyAwIDAgMCAxOCAwIi8%2BPC9zdmc%2B) |
-| **Backend** | ![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) |
-| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native / Expo](https://img.shields.io/badge/React%20Native%20%2F%20Expo-000020?style=flat-square&logo=expo&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0B1120?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI5IiByeT0iMyIvPjxwYXRoIGQ9Ik0zIDV2MTRhOSAzIDAgMCAwIDE4IDBWNSIvPjxwYXRoIGQ9Ik0zIDEyYTkgMyAwIDAgMCAxOCAwIi8%2BPC9zdmc%2B) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI5IiByeT0iMyIvPjxwYXRoIGQ9Ik0zIDV2MTRhOSAzIDAgMCAwIDE4IDBWNSIvPjxwYXRoIGQ9Ik0zIDEyYTkgMyAwIDAgMCAxOCAwIi8%2BPC9zdmc%2B) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Cloud & hosting** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&logo=supabase&logoColor=3ECF8E) ![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Let's Encrypt](https://img.shields.io/badge/Let%27s%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white) |
-| **DevOps & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjYiIGN5PSI2IiByPSIzIi8%2BPGNpcmNsZSBjeD0iMTgiIGN5PSIxOCIgcj0iMyIvPjxwYXRoIGQ9Ik02IDl2M2EzIDMgMCAwIDAgMyAzaDYiLz48cGF0aCBkPSJtMTMgMTIgMyAzLTMgMyIvPjwvc3ZnPg%3D%3D) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
-| **Testing** | ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMCAydjcuMzEiLz48cGF0aCBkPSJNMTQgOS4zVjEuOTkiLz48cGF0aCBkPSJNOC41IDJoNyIvPjxwYXRoIGQ9Ik0xNCA5LjNhNi41IDYuNSAwIDEgMS00IDAiLz48cGF0aCBkPSJNNS41MiAxNmgxMi45NiIvPjwvc3ZnPg%3D%3D) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white) ![Artillery](https://img.shields.io/badge/Artillery-EF5B5B?style=flat-square) |
+| | |
+| :-- | :-- |
+| **Back end** | C#, .NET 8 / ASP.NET Core, .NET Framework & MVC, Node.js (Express, NestJS), Laravel, Prisma, REST, GraphQL |
+| **Front end** | Angular (up to 19, signals & standalone), React, Next.js, TypeScript, RxJS, Tailwind |
+| **Data** | SQL Server & T-SQL, PostgreSQL, Supabase, MySQL, MongoDB, Redis |
+| **DevOps** | Docker, GitHub Actions, Azure DevOps, GitLab CI, Nginx, Linux (OVHcloud VPS), Vercel, Let's Encrypt |
+| **Testing** | xUnit, Jest, Playwright, Cypress, Jasmine |
+| **Auth & payments** | Keycloak, JWT, RBAC, Stripe |
 
-**Practices**: Clean Architecture, REST API design, microservices, CI/CD, authentication and RBAC (Keycloak, JWT), security testing, technical debt reduction, Agile / Scrum / SAFe, UML and Merise.
+<br>
+
+## How I work
+
+- **I read the existing code before I touch it.** Knowing why something is the way it is saves everyone a bad release.
+- **I keep things simple.** Clear names and small, reviewable changes beat clever patterns.
+- **I test what protects the product:** business rules, integrations, critical flows. Not coverage numbers.
+- **I automate the boring parts.** Builds, tests and deploys run on their own, so shipping is a non-event.
+- **I write things down.** The decisions that will matter to the next developer, even if that's me in six months.
+
+<br>
 
 ## Education
 
-- **Master's degree**, Information Systems Development (web development track)
-- **Bachelor's degree**, Computer Science (software development)
-- **DUT**, Computer Engineering (software engineering option)
+| | |
+| --- | --- |
+| **Master's**, Information Systems Development, web track | H3 Hitema, Paris · 2025 |
+| **Bachelor's**, Computer Science, software development | Aix-Marseille University · 2023 |
+| **DUT**, Computer Engineering, software engineering | EST Meknès · 2022 |
 
----
+<br>
 
-💬 Have a project or a mission in mind? Reach me on [LinkedIn](https://www.linkedin.com/in/anass-erekysy-5a8939204/), [Malt](https://www.malt.fr/profile/anasserekysy) or by [email](mailto:ereanass@gmail.com).
+<div align="center">
+
+**Got an app to build, or one that needs fixing?**<br>
+Send me a few lines about the context and I'll get back to you quickly.
+
+<br>
+
+[![Email](https://img.shields.io/badge/ereanass@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ereanass@gmail.com)
+[![Malt](https://img.shields.io/badge/Hire_me_on_Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/anasserekysy)
+
+</div>
